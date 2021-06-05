@@ -12,11 +12,11 @@ img = cv2.imread("my_1st_image.jpeg", cv2.IMREAD_GRAYSCALE)
 
 # Optional - resizing an image by preserving its aspect ratio
 # percentage by which we resize our image (based on the hight)
-final_hight = 512 # pixels
-hight_ratio = final_hight / img.shape[0]
+final_height = 512 # pixels
+height_ratio = final_height / img.shape[0]
 #calculate the ratio of original dimensions
-height = int(img.shape[0] * hight_ratio)
-width = int(img.shape[1] * hight_ratio)
+height = int(img.shape[0] * height_ratio)
+width = int(img.shape[1] * height_ratio)
 # desired size
 dsize = (width, height)
 # resizing our image
