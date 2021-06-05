@@ -29,4 +29,7 @@ cv2.destroyAllWindows()
 
 # Saving the original and the gaussian adaptive threshold side by side:
 horiz_conc = np.concatenate((grayscaled, gaus), axis=1)
-cv2.imwrite('gaus_adpt_thrsh.png', horiz_conc)
+# resizing an image to save some memory
+im_res = cv2.resize(horiz_conc, (int(img.shape[1] * 0.5), int(img.shape[0] * 0.5)))
+
+cv2.imwrite('gaus_adpt_thrsh.png', im_res)
