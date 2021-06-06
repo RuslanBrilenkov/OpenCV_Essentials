@@ -10,6 +10,11 @@ This project is dedicated to explain the OpenCV methods, concepts, showcasing so
 3. Video Processing
 4. Thresholding
 5. Masking and Overlaying
+6. Noise Removal
+7. Color Filtering
+8. Edge/Contours Detection
+9. Eyes Detection
+
 And more
 
 If you have any comments, questions, suggestions, or just want to connect, my LinkedIn is http://bit.ly/RBrilenkov

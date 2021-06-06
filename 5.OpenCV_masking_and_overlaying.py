@@ -39,4 +39,5 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 # Optionally, let us save the result
+cv2.imwrite('resized_logo.png', img_logo)
 cv2.imwrite('flowers+logo.png', img_base)
