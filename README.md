@@ -19,4 +19,5 @@ And more
 
 If you have any comments, questions, suggestions, or just want to connect, my LinkedIn is http://bit.ly/RBrilenkov
 
-To learn more about the motivation behind this project and the details on each example, see my article: 
+To learn more about the motivation behind this project and the details on each example, see my article: http://bit.ly/9_OpenCV_Essentials_RBrilenkov
+
