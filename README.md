@@ -17,7 +17,10 @@ This project is dedicated to explain the OpenCV methods, concepts, showcasing so
 
 And more
 
-If you have any comments, questions, suggestions, or just want to connect, my LinkedIn is http://bit.ly/RBrilenkov
+If you have any comments, questions, suggestions, or just want to connect, contact me.
 
-To learn more about the motivation behind this project and the details on each example, see my article: http://bit.ly/9_OpenCV_Essentials_RBrilenkov
+## Author: [Ruslan Brilenkov](https://www.linkedin.com/in/ruslan-brilenkov/)
 
+To learn more about the motivation behind this project and the details on each example, see:
+
+## [Original article](https://medium.datadriveninvestor.com/9-opencv-essentials-during-covid-19-45530f361c99)
